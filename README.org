@@ -1,0 +1,7 @@
+* Simple WiFi connections with a Pi Pico
+
+A modification of an exmaple program connecting a Pico W to wifi and
+using a small webserver to control the LED.
+
+For this example we create a timer that shows the status of the WiFi
+every 10 seconds.
