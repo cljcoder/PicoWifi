@@ -5,3 +5,9 @@ using a small webserver to control the LED.
 
 For this example we create a timer that shows the status of the WiFi
 every 10 seconds.
+
+
+To use this code, copy the given secrets_example.py to secrets.py and
+modify to suit the settings for your WiFi network.  Then upload all of
+the non-hidden files in the directory to your Pi (with Thonny or your
+choice of editor/IDE), and give main.py a test run.
